@@ -1,7 +1,25 @@
 ## Getting Started
 
-ContaTerminha.java = Codigo para BootCamp Dio+Bradesco, uso da 
-condição If Simples e Composta, sendo usada em uma aplicação de conta bancária simulando um saque
+ContaTerminha.java = Codigo para BootCamp Dio+Bradesco. Uso das Condicionais sendo usada em uma aplicação de conta bancária simulando um saque. 
+Condicional Simples (if/se) - Sempre a primeira condição. Usa ()
+Condicional Composta else/senão - Sempre a última condição. Não usa ()
+Condicional Encadeada (else is/senão se) - Sempre entre as Condições if/se e else/senão. Usa ()
+
+Obs: Após definir as variáveis do tipo Double Caso sua concidicional (If/se) ou (else/senão) tenha mais de uma linha de código então use {}
+Ex:
+if (valorSaque < Saldo)
+    1 Linha: saque = saque - ValorSaque
+    2 Linha: System.out.println("Saque Realizado." + saldo);
+
+Condicional Encadeada - Possibilita que armazenemos uma condição dentro de uma variável como no arquivo
+SaqueApp.java demos a variavél mensagem o valor da condicional.
+Obs1: A condição Encadeada faz uso dos simbolos ? (if/se) e : (else/senão) para simplificar/abreviar o código. 
+Obs2: Se nossa condicional for gerar uma conta é importante que usemos os parenteses.
+Obs3: Caso use a Condicional Encadeada apenas inverta a ordem dos simbolos. 
+Ex: ? (if/se) Condição Verdadeira --> : (else/senão) Condição de Comparação ? (if/se) --> : (else/senão) 
+
+
+
 
 ## Folder Structure
 
