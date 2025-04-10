@@ -19,6 +19,9 @@ Obs3: Caso use a Condicional Encadeada apenas inverta a ordem dos simbolos.
 Ex: ? (if/se) Condição Verdadeira --> : (else/senão) Condição de Comparação ? (if/se) --> : (else/senão) 
 
 
+SwitchCase Tentei adpatar a condição simulando um empréstimo. Fiquei sem entender muito, Faltam estudos. 
+Volto para atualizar! 
+
 
 
 ## Folder Structure
